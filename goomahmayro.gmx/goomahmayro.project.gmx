@@ -4,10 +4,10 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
-  <sprites name="sprites">
-    <sprite>sprites\mydog</sprite>
-  </sprites>
+  <sounds name="sound">
+    <sound>sound\runningmusic</sound>
+  </sounds>
+  <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <help>
